@@ -5,5 +5,8 @@
 <p>objetivo automatizar parte do meu trabalho</p>
 
 <h2>Como instalar</h2>
-* executar npm install.
-* no pasta do projeto executar comando node scraping.js para gerar o script sql
+<hr>
+<ul>
+  <li>executar npm install.</li>
+  <li>no pasta do projeto executar comando node scraping.js para gerar o script sql</li>
+</ul>
