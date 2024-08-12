@@ -1,0 +1,16 @@
+{
+  "eslint.enable": false,
+  "eslint.codeActionsOnSave.mode": "problems",
+  "eslint.probe": [
+    "astro",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "html",
+    "mdx",
+    "vue",
+    "markdown",
+    "json",
+    "jsonc"
+  ]
+}
